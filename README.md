@@ -109,3 +109,5 @@ node index.js
 ##### GitHub
  The URL of the GitHub repository
  https://github.com/amira07hafnaoui/Employee-tracker
+ # Licence
+ MIT.
