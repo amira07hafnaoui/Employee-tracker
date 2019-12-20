@@ -1,0 +1,25 @@
+{
+  "name": "employee-tracker",
+  "version": "1.0.0",
+  "description": "track employee information",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amira07hafnaoui/Employee-tracker.git"
+  },
+  "author": "Amira chikhaoui",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amira07hafnaoui/Employee-tracker/issues"
+  },
+  "homepage": "https://github.com/amira07hafnaoui/Employee-tracker#readme",
+  "dependencies": {
+    "chalk": "^3.0.0",
+    "console.table": "^0.10.0",
+    "inquirer": "^7.0.1",
+    "mysql": "^2.17.1"
+  }
+}
